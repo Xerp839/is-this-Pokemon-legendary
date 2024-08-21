@@ -8,4 +8,11 @@
 
 ![4](https://github.com/user-attachments/assets/d5e8671b-31b8-42de-9143-96100367722b)
 
+## Results 🌟
+
+The classifier achieved remarkable performance:
+- **Accuracy**: 98%
+- **F1-Score (Non-Legendary)**: 0.99
+- **F1-Score (Legendary)**: 0.94
+
 
